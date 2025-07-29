@@ -1,8 +1,7 @@
-
 # 💫 Hi 👋, I'm Naveen Chandrasekhar  
-*A passionate Electrical Engineer*
+A passionate Electrical Engineer
 
-📧 **Email Me:** [naveenchandrasekhar21@gmail.com](mailto:naveenchandrasekhar21@gmail.com) for collaboration, projects, or just to connect. 😊
+📧 *Email Me:* [naveenchandrasekhar21@gmail.com](mailto:naveenchandrasekhar21@gmail.com) for collaboration, projects, or just to connect. 😊
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -10,14 +9,14 @@
 ---
 
 ### 🚀 About Me:
-- 🔭 *Currently working on:* Power BI + SQL integration projects  
-- 🌱 *Currently learning:* MySQL  
-- 👯 *Looking to collaborate on:* Embedded System Projects  
-- 🤔 *Seeking help with:* Web Development  
-- 💬 *Ask me about:* Collaboration, Tech Support, Communication, Teamwork  
-- 📫 *Reach me at:* naveenchandrasekhar21@gmail.com  
-- 😄 *Pronouns:* Naveen  
-- ⚡ *Fun Fact:* I love learning new things!
+- 🔭 Currently working on: Power BI + SQL integration projects  
+- 🌱 Currently learning: MySQL  
+- 👯 Looking to collaborate on: Embedded System Projects  
+- 🤔 Seeking help with: Web Development  
+- 💬 Ask me about: Collaboration, Tech Support, Communication, Teamwork  
+- 📫 Reach me at: naveenchandrasekhar21@gmail.com  
+- 😄 Pronouns: Naveen  
+- ⚡ Fun Fact: I love learning new things!
 
 ---
 
@@ -60,7 +59,7 @@
 
 ---
 
-### ✍️ Random Dev Quote:
+### ✍ Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
@@ -72,4 +71,14 @@
 [![](https://visitcount.itsvg.in/api?id=NAVEENCHANDRASEKHAR&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
 
+
+<img src="https://komarev.com/ghpvc/?username=NAVEENCHANDRASEKHAR&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+
+### 💝 **Thanks for visiting!** 
+### ⭐ **Don't forget to star my repositories if you find them interesting!**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn"/>
+
+</div>
