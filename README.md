@@ -70,10 +70,6 @@ A passionate Electrical Engineer
 ---
 [![](https://visitcount.itsvg.in/api?id=NAVEENCHANDRASEKHAR&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
----
-
-
 <img src="https://komarev.com/ghpvc/?username=NAVEENCHANDRASEKHAR&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 
 ### 💝 **Thanks for visiting!** 
