@@ -1,92 +1,80 @@
 # 💫 Hi 👋, I'm Naveen Chandrasekhar  
-🚀 *A Passionate Electrical & Electronics Engineer*  
+A passionate Electrical Engineer
 
-📧 *Email Me:* [naveenchandrasekhar21@gmail.com](mailto:naveenchandrasekhar21@gmail.com)  
+📧 *Email Me:* [naveenchandrasekhar21@gmail.com](mailto:naveenchandrasekhar21@gmail.com) for collaboration, projects, or just to connect. 😊
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 ---
 
-## 🚀 About Me:
-- 🔭 Currently working on: **Power BI + SQL Integration Projects**  
-- 🌱 Currently learning: **MySQL & Data Visualization**  
-- 👯 Looking to collaborate on: **Embedded System & IoT Projects**  
-- 🤔 Seeking help with: **Web Development & Cloud**  
-- 💬 Ask me about: *Collaboration, Tech Support, Communication, Teamwork*  
-- 📫 Reach me at: **naveenchandrasekhar21@gmail.com**  
-- ⚡ Fun Fact: *I love exploring new technologies and building real-world projects!*  
+### 🚀 About Me:
+- 🔭 Currently working on: Power BI + SQL integration projects  
+- 🌱 Currently learning: MySQL  
+- 👯 Looking to collaborate on: Embedded System Projects  
+- 🤔 Seeking help with: Web Development  
+- 💬 Ask me about: Collaboration, Tech Support, Communication, Teamwork  
+- 📫 Reach me at: naveenchandrasekhar21@gmail.com  
+- 😄 Pronouns: Naveen  
+- ⚡ Fun Fact: I love learning new things!
 
 ---
 
 ## 🌐 Connect with Me:
-<p align="left">
-<a href="https://linkedin.com/in/NAVEENCHANDRASEKHAR" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="50"/></a>
-<a href="mailto:naveenchandrasekhar21@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="50"/></a>
-<a href="https://github.com/NAVEENCHANDRASEKHAR"><img src="https://skillicons.dev/icons?i=github" width="50"/></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/NAVEENCHANDRASEKHAR)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naveenchandrasekhar21@gmail.com)
 
 ---
 
 ## 💻 Tech Stack:
-<p align="center">
-<img src="https://skillicons.dev/icons?i=c,java,mysql,git,github,raspberrypi,arduino,powershell,linux,canva" /><br>
-<img src="https://img.shields.io/badge/Embedded%20Systems-2C2C2C?style=for-the-badge&logo=arduino&logoColor=blue" />
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-</p>  
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
+![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)  
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 ---
 
-## ⚡ Featured Projects:
-📌 **Smart Energy Meter** → IoT + Raspberry Pi Pico + Blynk App  
-📌 **Motor Interlocking System** → Siemens S7-200 PLC Automation  
-📌 **Automotive Cabin Environmental Monitoring** → TRICORE™ TC334 MCU  
-
----
-
-## 🏆 GitHub Trophies:
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NAVEENCHANDRASEKHAR&theme=algolia&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-## 📊 GitHub Stats:
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=NAVEENCHANDRASEKHAR&show_icons=true&theme=tokyonight&count_private=true" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NAVEENCHANDRASEKHAR&theme=tokyonight" height="170"/>
-</p>
-
----
-
-## 🐍 Snake Game Contribution Graph:
+### 🐍 Snake Game Contribution Graph:
 <div align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
 ---
 
-## ✍ Random Dev Quote:
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
+## 🏆 GitHub Trophies:
+![](https://github-profile-trophy.vercel.app/?username=NAVEENCHANDRASEKHAR&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
-## 📈 Visitor Count:
-<p align="center">
+
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=NAVEENCHANDRASEKHAR&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=7200)
+![](https://nirzak-streak-stats.vercel.app/?user=NAVEENCHANDRASEKHAR&theme=dark&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NAVEENCHANDRASEKHAR&theme=dark&hide_border=false&layout=compact&cache_seconds=7200)
+
+---
+
+### ✍ Random Dev Quote:
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+### 🔝 Top Contributed Repositories:
+![](https://github-contributor-stats.vercel.app/api?username=NAVEENCHANDRASEKHAR&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=NAVEENCHANDRASEKHAR&icon=0&color=0)](https://visitcount.itsvg.in)
+
 <img src="https://komarev.com/ghpvc/?username=NAVEENCHANDRASEKHAR&style=for-the-badge&color=blueviolet" alt="Profile Views" />
-<img src="https://visitcount.itsvg.in/api?id=NAVEENCHANDRASEKHAR&icon=6&color=3" />
-</p>
 
----
+### 💝 **Thanks for visiting!** 
+### ⭐ **Don't forget to star my repositories if you find them interesting!**
 
-## 🔥 Fun Section:
-<p align="center">
-<img src="https://media.giphy.com/media/3o7aD4a0oKx7aM2mWk/giphy.gif" width="200"/>  
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200"/>  
-<img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="200"/>  
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn"/>
 
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=footer"/>
+</div>                                          
