@@ -9,14 +9,16 @@ A passionate Electrical Engineer
 ---
 
 ### 🚀 About Me:
-- 🔭 Currently working on: Power BI + SQL integration projects  
-- 🌱 Currently learning: MySQL  
-- 👯 Looking to collaborate on: Embedded System Projects  
-- 🤔 Seeking help with: Web Development  
-- 💬 Ask me about: Collaboration, Tech Support, Communication, Teamwork  
+- 🔭 Currently working on: Titan engineering and automation limited, hosur
+- role : electrical design engineer
+- 🌱 Currently learning: electrical design on eplan software
+- 👯 Looking to collaborate on:  industrial automation 
+- 🤔 Seeking help with: technical skills about automation  
+- 💬 Ask me about: Collaboration, Tech Support, Communication, Teamwork, sharing knowledge. 
 - 📫 Reach me at: naveenchandrasekhar21@gmail.com  
 - 😄 Pronouns: Naveen  
 - ⚡ Fun Fact: I love learning new things!
+  
 
 ---
 
