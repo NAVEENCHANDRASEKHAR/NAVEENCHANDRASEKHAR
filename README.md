@@ -11,7 +11,7 @@ I am an Electrical Design Engineer passionate about industrial automation, elect
 - Electrical Design Engineer at Titan Engineering & Automation Ltd., Hosur
 - Experience in Electrical Control Panel Design and Documentation
 - Skilled in Electrical Schematic Design using EPLAN Electric P8
-- Knowledge of MCC, PCC, PLC, and Control Panel Design
+- Knowledge of SD, PLC, and Control Panel Design
 - Familiar with Industrial Automation Concepts and Standards
 - Interested in Smart Manufacturing and Automation Technologies
 
@@ -30,7 +30,6 @@ I am an Electrical Design Engineer passionate about industrial automation, elect
 ## 🌱 Currently Learning
 
 - Advanced EPLAN Electric P8
-- PLC Programming
 - HMI Development
 - Industrial Communication Protocols
 - IEC Electrical Standards
@@ -55,9 +54,10 @@ I am an Electrical Design Engineer passionate about industrial automation, elect
 - Power Distribution Systems
 - Motor Control Circuits
 - Electrical Schematic Design
-- Single Line Diagrams (SLD)
+- Multi Line Diagrams (MLD)
 - Wiring Diagrams
 - Bill of Materials (BOM)
+- ECN 
 
 ### Automation
 - PLC Basics
@@ -67,7 +67,6 @@ I am an Electrical Design Engineer passionate about industrial automation, elect
 
 ### Software
 - EPLAN Electric P8
-- AutoCAD Electrical
 - Microsoft Excel
 - Power BI
 - MySQL
@@ -86,11 +85,10 @@ I am an Electrical Design Engineer passionate about industrial automation, elect
 
 ## 📂 Projects
 
-- Industrial Control Panel Design
-- Electrical Schematics using EPLAN
-- Arduino-Based Embedded Projects
-- Raspberry Pi Applications
-- Automation Engineering Projects
+- Smart Energy Meter
+- Solar power bank charging
+- Motor Interlocking System
+- 1φ to 3φ converter Integrated with Renewable Energy
 
 ---
 
@@ -111,10 +109,5 @@ https://linkedin.com/in/NAVEENCHANDRASEKHAR
 
 ---
 
-## 📈 Career Objective
-
-To build a successful career as an Electrical Design & Automation Engineer by contributing to innovative industrial automation projects while continuously improving my technical expertise in electrical engineering, automation systems, and smart manufacturing technologies.
-
----
 
 ⭐ Thank you for visiting my profile!
