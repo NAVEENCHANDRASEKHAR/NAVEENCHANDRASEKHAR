@@ -97,7 +97,7 @@ I am an Electrical Design Engineer passionate about industrial automation, elect
 📧 Email: naveenchandrasekhar21@gmail.com
 
 💼 LinkedIn:  
-https://linkedin.com/in/NAVEENCHANDRASEKHAR
+(https://www.linkedin.com/in/naveen-chandrasekhar7/)
 
 ---
 
